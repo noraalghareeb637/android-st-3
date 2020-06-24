@@ -1,0 +1,8 @@
+solve for the first error
+https://www.quora.com/What-does-the-R-layout-main-Cannot-Be-Found-Cannot-resolve-symbol-R-error-on-my-Android-mean
+for the 2
+https://stackoverflow.com/questions/37015030/session-app-error-installing-apk/37657082
+https://www.youtube.com/watch?v=ZcXTKC-8rfY
+for the 3
+https://stackoverflow.com/questions/10464547/how-to-solve-java-lang-nullpointerexception-error
+https://www.educative.io/edpresso/how-to-resolve-the-javalangnullpointerexception#:~:text=lang.,is%20null%20before%20dereferencing%20it.
